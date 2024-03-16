@@ -28,8 +28,7 @@ O projeto de implementação de serviços foi dividido em 3 etapas, cada uma com
 ### Conclusão
 A implementação dos serviços AWS na empresa Abstergo Industries tem como esperado a redução de custos imediatos, aumentando a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização dos serviços implementados e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
-### Anexos
-[lista de anexos, como manuais, documentos, planilhas, entre outros]
+
 
 ### Assinatura do Responsável pelo Projeto
 Rui Jorge Lagos
