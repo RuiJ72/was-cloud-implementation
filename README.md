@@ -5,7 +5,7 @@
 ## Responsável: Rui Lagos
 
 ### Introdução
-Este relatório apresenta o processo de implementação de serviços na empresa Abstergo Industries, realizado por Jorge Coutinho. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de serviços na empresa Abstergo Industries, realizado por Rui Lagos. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ### Descrição do Projeto
 O projeto de implementação de serviços foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
